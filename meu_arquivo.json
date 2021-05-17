@@ -1,0 +1,17 @@
+{
+    "students": [{
+            "exam1": [50, 20],
+            "exam2": 80,
+            "exam3": 91,
+            "lastname": "Silva",
+            "name": "Alan"
+        },
+        {
+            "exam1": 95,
+            "exam2": 98,
+            "exam3": 99,
+            "lastname": "Souza",
+            "name": "Paula"
+        }
+    ]
+}
